@@ -1,5 +1,3 @@
-Title: Front-end Mentor Tip Calculator App
-
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge! This project is part of a Frontend Mentor(https://www.frontendmentor.io) challenge, designed to help you improve your HTML, CSS, and JavaScript skills by building realistic, responsive projects. It's a great way to practice front-end development, enhance your web design abilities, and sharpen your responsive layout techniques.
